@@ -1,3 +1,13 @@
+/*
+Program: TicTacToe.java          Date: 9/12/2022
+
+
+Author: Luqman Ajani
+School: CHHS
+Course: Computer Science 20
+	 
+*/
+
 public class Initials 
 {
 
@@ -11,3 +21,16 @@ public class Initials
 	}
 
 }
+
+/*
+
+
+|             |
+|            |  | 
+|           |    |
+|          |_ _ _ _|
+|__ __ __ |         |
+
+
+*/
+ 
