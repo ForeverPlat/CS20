@@ -1,5 +1,5 @@
 /*
-Program: Exercise5.java          Date: 9/7/2022
+Program: BinaryNumbers.java          Date: 9/7/2022
 
 
 Author: Luqman Ajani

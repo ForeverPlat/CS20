@@ -1,5 +1,5 @@
 /*
-Program: TicTacToe.java          Date: 9/12/2022
+Program: Initials.java          Date: 9/12/2022
 
 
 Author: Luqman Ajani
