@@ -1,3 +1,4 @@
+package SkillBuilding;
 import java.util.Scanner;
 /*
 Program: GradeAvgpart1.java          Date: 9/13/2022

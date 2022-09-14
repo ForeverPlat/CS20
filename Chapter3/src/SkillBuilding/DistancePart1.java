@@ -1,3 +1,4 @@
+package SkillBuilding;
 /*
 Program: DistancePart1.java          Date: 9/13/2022
 

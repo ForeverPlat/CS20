@@ -1,3 +1,4 @@
+package SkillBuilding;
 import java.util.Scanner;
 /*
 Program: DistancePart2.java          Date: 9/13/2022

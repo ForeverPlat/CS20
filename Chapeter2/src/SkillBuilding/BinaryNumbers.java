@@ -1,3 +1,4 @@
+package SkillBuilding;
 /*
 Program: BinaryNumbers.java          Date: 9/7/2022
 
